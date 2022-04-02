@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 you stumbled upon my GitHub! 
+<!-- <img src="https://komarev.com/ghpvc/?username=armandulis&label=Profile%20views&color=0e75b6&style=flat" alt="armandulis" /> -->
+I'm a backend developer on my way to become a fullstack developer! I have multiple years of experience in PHP, on my freetime i'm currently working on my Angular website - [CerealsBank.com](https://cereals-44447.web.app/). Feel free to reach out via Armandulis@gmail.com 
+### Skills
+<img style="height: 36px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"> Over 2 years of work experience </br>
+ <img style="height: 36px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs"> Basics used in work </br>
+<img style="height: 36px;" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular">
+<img style="height: 36px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp">
+<img style="height: 36px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android"> Various of different personal and school projects</br>
+Various of different personal and school projects</br>
 
-<!--
-**Armandulis/Armandulis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+ 
+### Repositories
+I suggest checking out my [Exams repository](https://github.com/Armandulis/EASV-Computer-Science-Exams), as it contains a various of different projects for different technologies with a nice documentation
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Leetcode status
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=Sleeps)](https://leetcode.com/Sleeps/)
