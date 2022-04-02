@@ -5,6 +5,6 @@ I'm a backend developer on my way to become a fullstack developer! I have multip
 ### Skills
 PHP - Over 2 years of work experience. Also Vue - Basics used in work </br>
 Angular, .Net, Android - Various of different personal and school projects</br>
-
+<!-- 
 ### Leetcode status
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=Sleeps)](https://leetcode.com/Sleeps/)
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=Sleeps)](https://leetcode.com/Sleeps/) -->
